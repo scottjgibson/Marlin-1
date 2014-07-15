@@ -349,7 +349,6 @@ const bool Z_MAX_ENDSTOP_INVERTING = true; // set to true to invert the logic of
 // For deltabots this means top and center of the cartesian print volume.
 #define MANUAL_X_HOME_POS 0
 #define MANUAL_Y_HOME_POS 0
-//#define MANUAL_Z_HOME_POS 383.8 // For delta: Distance between nozzle and print surface after homing.
 #define MANUAL_Z_HOME_POS 400 
 
 //// MOVEMENT SETTINGS
